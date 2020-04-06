@@ -64,9 +64,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Druge promjene.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Pojam.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Promjene develop3.cs" />
+    <Compile Include="Promjene trece.cs" />
+    <Compile Include="Promjene develop2.cs" />
+    <Compile Include="Promjene develop.cs" />
+    <Compile Include="Promjene.cs" />
+    <Compile Include="Promjene2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RijeciDbContext.cs" />
   </ItemGroup>
